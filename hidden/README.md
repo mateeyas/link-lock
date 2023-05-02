@@ -20,7 +20,7 @@ could just as easily notice that. What do you do? Unfortunately, this is a
 [realistic scenario for many
 people](https://www.nytimes.com/wirecutter/blog/domestic-abusers-can-control-your-devices-heres-how-to-fight-back/).
 
-Almost a year ago, I created [Link Lock](https://jstrieb.github.io/link-lock)
+Almost a year ago, I created [Link Lock](https://link-lock.sqrdanalytics.com)
 -- a tool to enable anyone to securely password-protect URLs. But adding a
 password to links isn't always enough.
 
@@ -34,7 +34,7 @@ users to hide bookmarks using features already built into every web browser.
 There are two versions available:
 
 - [A stable, simplified version integrated directly into Link
-  Lock](https://jstrieb.github.io/link-lock/hidden/)
+  Lock](https://link-lock.sqrdanalytics.com/hidden/)
 - [An experimental
   version](https://jstrieb.github.io/projects/hidden-bookmarks/#demo), designed
   to test the limits of the idea
@@ -112,7 +112,7 @@ password-protected.)
 
 Despite shortcomings, bookmark knocking is still a useful part of
 defense-in-depth. For more serious security, use the version built into [Link
-Lock](https://jstrieb.github.io/link-lock/).
+Lock](https://link-lock.sqrdanalytics.com/).
 
 **Don't forget to use private browsing or incognito mode when accessing hidden
 links, otherwise the secret links are stored in your browser history, and the
@@ -146,7 +146,7 @@ form](https://jstrieb.github.io/about#contact).
 - Only tested with desktop Firefox and Chrome. Not tested with Safari, Edge, or
   on mobile devices.
 - Despite spending hours revising the instructions for the [Link Lock hidden
-  bookmarks](https://jstrieb.github.io/link-lock/hidden/) page, it is still far
+  bookmarks](https://link-lock.sqrdanalytics.com/hidden/) page, it is still far
   from perfect. Making this idea easy to use and understand is very difficult.
 
 
